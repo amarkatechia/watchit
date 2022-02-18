@@ -1,0 +1,25 @@
+{
+  "name": "watchit",
+  "version": "1.0.0",
+  "description": "nodemon clone app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarkatechia/watchit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarkatechia/watchit/issues"
+  },
+  "homepage": "https://github.com/amarkatechia/watchit#readme",
+  "dependencies": {
+    "caporal": "^1.4.0",
+    "chokidar": "^3.5.3",
+    "lodash.debounce": "^4.0.8"
+  }
+}
